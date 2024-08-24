@@ -1,0 +1,1 @@
+print("Misha %s and %s around"%("walked","looked"))
